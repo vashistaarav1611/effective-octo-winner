@@ -1,0 +1,25 @@
+.btn-warning{
+	font-size: 30px;
+	width: 100%;
+}
+body{
+	background-size: cover;
+}
+.div-speed-img{
+	width:200px;
+	border-radius:100px;
+}
+.div-speed{
+	float: left;
+}
+.div-vol{
+	float: right;
+}
+.btn-success{
+	font-size: 30px;
+}
+canvas{
+	border: 10px solid black;
+	margin-top: 100px;
+	border-radius: 20px;
+}
